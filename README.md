@@ -1,51 +1,33 @@
-# 🚀 VortexLabPro
-**Exploring Code 🐍 | AI 🤖 | Tech 🌌**
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate [your role, e.g., frontend developer / student / data scientist] from [your location]</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## About Me
-I’m **VortexLabPro** – teen coder, tech enthusiast, and lifelong learner.  
-I love creating projects in Python 🐍, exploring AI 🤖, and sharing knowledge with the world 🌌.
+- 🔭 I’m currently working on **[project name](link to repo)**
+- 🌱 I’m currently learning **[technology/stack]**
+- 👯 I’m looking to collaborate on **[type of projects]**
+- 💬 Ask me about **[your expertise, e.g., React, Python, AI]**
+- 📫 How to reach me: **[your email or preferred contact]**
+- ⚡ Fun fact: **[something fun about you]**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://dev.to/yourdevto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+</p>
 
-## My Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <!-- Add more icons from https://github.com/tandpfun/skill-icons or devicons -->
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="github stats" /></p>
 
-## GitHub Stats
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=VortexLabPro&theme=dark&show_icons=true&count_private=true">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VortexLabPro&theme=dark">
-</td>
-<td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=VortexLabPro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=VortexLabPro&theme=dark&margin-w=10&margin-h=10">
-</td>
-</tr>
-</table>
-
----
-
-## Connect with me
-
-📫 **Get in touch:**  
-Instagram: [@debugged.vibes](https://instagram.com/debugged.vibes)  
-Email: geetansh2286@gmail.com
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=VortexLabPro&color=blue)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="streak stats" /></p>
